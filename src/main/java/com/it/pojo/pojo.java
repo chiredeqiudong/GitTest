@@ -1,8 +1,0 @@
-package com.it.pojo;
-
-public class pojo {
-    public static void main(String[] args) {
-        System.out.println("hello git");
-        System.out.println("master分支");
-    }
-}
