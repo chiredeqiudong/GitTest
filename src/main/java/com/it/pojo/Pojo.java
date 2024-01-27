@@ -8,8 +8,6 @@ public class Pojo {
         System.out.println("hello git");
         System.out.println("master:1");
         System.out.println("master:2");
-        System.out.println("master:4");
-        System.out.println("master:5");
 
     }
 }
